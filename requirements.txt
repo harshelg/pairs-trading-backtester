@@ -1,0 +1,7 @@
+THIS PROJECT REQUIRES THE FOLLOWING LIBRARIES TO RUN:
+
+yfinance
+pandas
+numpy
+statsmodels
+matplotlib
