@@ -1,4 +1,4 @@
-THIS PROJECT REQUIRES THE FOLLOWING LIBRARIES TO RUN:
+# This project requires the following libraries installed to run:
 
 yfinance
 pandas
